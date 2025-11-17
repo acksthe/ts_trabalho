@@ -1,7 +1,7 @@
 //Discentes: Sthephani Souza Fernandes, Rafael Souza Regis
 //Disciplina: Arquitetura de Software
 
-//Breve descrição do código: sistema de montagem de lanche na rede de fastfood Subway, simula um pedido feito online pelo usuário.
+//Breve descrição do código: sistema de montagem de lanche no estilo fastfood 'Subway', simula um pedido feito online pelo usuário.
 //Padrão de projeto: Builder
 
 type Pao = 'Italiano Branco'|'Integral'|'Três Queijos'|'Parmesão e Orégano';

@@ -26,8 +26,12 @@ Os principais benefícios do Builder são facilitar a criação de objetos compl
 mais intuitiva e organizada, permitindo que o processo inteiro seja construído passo a passo, 
 sem precisar de um construtor enorme e cheio de parâmetros.
 
-//Passos de instalaçõa e execução:
-Foram instalados corretamente node e git no programa vscode
+//Passos de instalaçõa e execução:  
+npm init -y
+npm install typescript ts-node --save-dev
+npx tsc --init
+
+Para executar: npx ts-node Trabalho1.ts
 
 Em seguida utilizamos os slides usados de exemplos em aula para implementar o código, ja haviam sido apresentados
 exemplos de implemntação com Builder anteriormente. As principais dificuldades que enfrentamos foram implementar o código para
